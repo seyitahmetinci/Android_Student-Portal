@@ -7,9 +7,9 @@ and perform the following operations:
 
 •For Object ArrayList you have to create a class Studentthat contains the following private variables:
 
-oStudent No
-oName
-oSurname
-oProgram
++Student No
++Name
++Surname
++Program
 
 USED: Intent, Bundle, Arrayadapter, ArrayList, ListView, RadioGroup, Entity Class
